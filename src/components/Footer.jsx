@@ -8,7 +8,7 @@ function Footer() {
           <div className="flex items-center mb-4 md:mb-0">
             
             <div className="ml-4">
-              <h2 className="text-xl font-bold"><span className="text-[#ffbb00]">BK</span>collection</h2>
+              <h2 className="text-xl font-bold"><span className="text-[#ffbb00]">PE</span>RFUM</h2>
               <p className="text-gray-400 text-sm">Perfums</p>
             </div>
           </div>
@@ -22,7 +22,7 @@ function Footer() {
           </div>
           
           <p className="text-gray-400 text-sm ">
-            &copy; {new Date().getFullYear()} BKcollection. All rights reserved.
+            &copy; {new Date().getFullYear()} PERFUM. All rights reserved.
           </p>
         </div>
       </div>

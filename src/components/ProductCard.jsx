@@ -8,7 +8,7 @@ function ProductCard({handleDetails, image, title, price, rating, ...props}) {
                 <img
                     src={image}
                     alt={title}
-                    className="w-[250px] mx-auto transition-transform duration-300 ease-in-out hover:scale-110 active:scale-105"
+                    className="w-[150px] mx-auto transition-transform duration-300 ease-in-out hover:scale-110 active:scale-105"
 
                 />
             </div>

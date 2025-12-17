@@ -1,6 +1,6 @@
 let logo = {
-    logoSpan: "BK",
-    logoName : "Collection",
+    logoSpan: "PERF",
+    logoName : "UM",
     logoHref : "#"
 }
 
@@ -34,18 +34,18 @@ let homeContent = {
     title: "Fragrance",
     description: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa, tempore!,dipisicing elit. Ipsa, tempore!",
     button: "Discover",
-    homeImg: "/bkcollection/images/homeImg.png",
+    homeImg: "/perfum/images/homeImg.png",
     imgAlt: "home Image"
 }
 let offersImages = [
     {
-        imageUrl: "/bkcollection/images/offer1.jpg"
+        imageUrl: "/perfum/images/offer1.jpg"
     },
     {
-        imageUrl: "/bkcollection/images/offer2.jpg"
+        imageUrl: "/perfum/images/offer2.jpg"
     },
     {
-        imageUrl: "/bkcollection/images/offer3.jpg"
+        imageUrl: "/perfum/images/offer3.jpg"
     },
 ]
 let prductPageContent = { 
@@ -61,28 +61,28 @@ let prductPageButtons = [
 let products = { 
     allProducts: [
         {
-            productImage: "/bkcollection/images/perf2.png",
+            productImage: "/perfum/images/perf2.png",
             productTitle: "Product 1",
             productPrice: "29$",
             productRating: "⭐⭐⭐⭐⭐",
             productDescription: " desc 1 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse accusamus facilis voluptas deleniti fugiat ut harum neque atque impedit eum iure labore, quod est veniam obcaecati odio! Et, aspernatur eveniet."
         },
         {
-            productImage: "/bkcollection/images/ar1.png",
+            productImage: "/perfum/images/ar1.png",
             productTitle: "Product 2",
             productPrice: "29$",
             productRating: "⭐⭐⭐⭐",
             productDescription: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse accusamus facilis voluptas deleniti fugiat ut harum neque atque impedit eum iure labore, quod est veniam obcaecati odio! Et, aspernatur eveniet."
         },
         {
-            productImage: "/bkcollection/images/perf1.png",
+            productImage: "/perfum/images/perf1.png",
             productTitle: "Product 3",
             productPrice: "29$",
             productRating: "⭐⭐⭐⭐⭐",
             productDescription: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse accusamus facilis voluptas deleniti fugiat ut harum neque atque impedit eum iure labore, quod est veniam obcaecati odio! Et, aspernatur eveniet."
         },
         {
-            productImage: "/bkcollection/images/ar2.png",
+            productImage: "/perfum/images/ar2.png",
             productTitle: "Product 4",
             productPrice: "29$",
             productRating: "⭐⭐⭐⭐⭐",
@@ -91,28 +91,28 @@ let products = {
     ],
     mensCollection: [
         {
-            productImage: "/bkcollection/images/perf2.png",
+            productImage: "/perfum/images/perf2.png",
             productTitle: "Product 1",
             productPrice: "29$",
             productRating: "⭐⭐⭐⭐⭐",
             productDescription: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse accusamus facilis voluptas deleniti fugiat ut harum neque atque impedit eum iure labore, quod est veniam obcaecati odio! Et, aspernatur eveniet."
         },
         {
-            productImage: "/bkcollection/images/perf2.png",
+            productImage: "/perfum/images/perf2.png",
             productTitle: "Product 2",
             productPrice: "29$",
             productRating: "⭐⭐⭐⭐",
             productDescription: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse accusamus facilis voluptas deleniti fugiat ut harum neque atque impedit eum iure labore, quod est veniam obcaecati odio! Et, aspernatur eveniet."
         },
         {
-            productImage: "/bkcollection/images/perf2.png",
+            productImage: "/perfum/images/perf2.png",
             productTitle: "Product 3",
             productPrice: "29$",
             productRating: "⭐⭐⭐⭐⭐",
             productDescription: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse accusamus facilis voluptas deleniti fugiat ut harum neque atque impedit eum iure labore, quod est veniam obcaecati odio! Et, aspernatur eveniet."
         },
         {
-            productImage: "/bkcollection/images/perf2.png",
+            productImage: "/perfum/images/perf2.png",
             productTitle: "Product 4",
             productPrice: "29$",
             productRating: "⭐⭐⭐⭐⭐",
@@ -121,28 +121,28 @@ let products = {
     ],
     womensCollection: [
         {
-            productImage: "/bkcollection/images/ar2.png",
+            productImage: "/perfum/images/ar2.png",
             productTitle: "Product 1",
             productPrice: "29$",
             productRating: "⭐⭐⭐⭐⭐",
             productDescription: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse accusamus facilis voluptas deleniti fugiat ut harum neque atque impedit eum iure labore, quod est veniam obcaecati odio! Et, aspernatur eveniet."
         },
         {
-            productImage: "/bkcollection/images/ar3.png",
+            productImage: "/perfum/images/ar3.png",
             productTitle: "Product 2",
             productPrice: "29$",
             productRating: "⭐⭐⭐⭐",
             productDescription: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse accusamus facilis voluptas deleniti fugiat ut harum neque atque impedit eum iure labore, quod est veniam obcaecati odio! Et, aspernatur eveniet."
         },
         {
-            productImage: "/bkcollection/images/ar1.png",
+            productImage: "/perfum/images/ar1.png",
             productTitle: "Product 3",
             productPrice: "29$",
             productRating: "⭐⭐⭐⭐⭐",
             productDescription: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse accusamus facilis voluptas deleniti fugiat ut harum neque atque impedit eum iure labore, quod est veniam obcaecati odio! Et, aspernatur eveniet."
         },
         {
-            productImage: "/bkcollection/images/perf1.png",
+            productImage: "/perfum/images/perf1.png",
             productTitle: "Product 4",
             productPrice: "29$",
             productRating: "⭐⭐⭐⭐⭐",
@@ -151,21 +151,21 @@ let products = {
     ],
     newProducts: [
         {
-            productImage: "/bkcollection/images/ar1.png",
+            productImage: "/perfum/images/ar1.png",
             productTitle: "ROUGE",
             productPrice: "29$",
             productRating: "⭐⭐⭐⭐⭐",
             productDescription: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse accusamus facilis voluptas deleniti fugiat ut harum neque atque impedit eum iure labore, quod est veniam obcaecati odio! Et, aspernatur eveniet."
         },
         {
-            productImage: "/bkcollection/images/ar2.png",
+            productImage: "/perfum/images/ar2.png",
             productTitle: "BLEU",
             productPrice: "29$",
             productRating: "⭐⭐⭐⭐",
             productDescription: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse accusamus facilis voluptas deleniti fugiat ut harum neque atque impedit eum iure labore, quod est veniam obcaecati odio! Et, aspernatur eveniet."
         },
         {
-            productImage: "/bkcollection/images/ar3.png",
+            productImage: "/perfum/images/ar3.png",
             productTitle: "ROSE",
             productPrice: "29$",
             productRating: "⭐⭐⭐⭐⭐",
@@ -212,21 +212,21 @@ let posts = [
     title: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente, veniam.',
     date: 'May 20, 2023',
     category: 'Tips',
-    image: '/bkcollection/images/offer1.jpg'
+    image: '/perfum/images/offer1.jpg'
 },
 {
     id: 2,
     title: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente, veniam.',
     date: 'June 15, 2023',
     category: 'Tips',
-    image: '/bkcollection/images/offer2.jpg'
+    image: '/perfum/images/offer2.jpg'
 },
 {
     id: 3,
     title: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente, veniam.',
     date: 'July 2, 2023',
     category: 'Tips',
-    image: '/bkcollection/images/offer3.jpg'
+    image: '/perfum/images/offer3.jpg'
 }
 ];
 export { navData,logo,homeContent, offersImages ,prductPageContent , prductPageButtons,products,newArrivalsContent,reviews,posts}
